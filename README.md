@@ -13,7 +13,7 @@ This repository is used to track progress, updates, and report writing for **Ass
 ## 📂 Repository Structure  
 ```
 ├── /referpaper         # Reference papers, lecture materials, and assignment guidelines
-├── assignment1.docx    # Report itself
+├── Assignment1.docx    # Report itself
 ```
 
 ---
