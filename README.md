@@ -14,8 +14,6 @@ This repository is used to track progress, updates, and report writing for **Ass
 ```
 ├── /referpaper         # Reference papers, lecture materials, and assignment guidelines
 ├── assignment1.docx    # Report itself
-├── meetingnotes
-├── assignmentoutline
 ```
 
 ---
